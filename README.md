@@ -8,11 +8,11 @@ This project is an Analog Temperature Sensing Board designed for Battery Managem
 
 
 
-!\[3D PCB View](./images/pcb\_3d.png)
+![3D PCB View](images/pcb_3d.png)
 
 
 
-!\[3D PCB View](./images/pcb\_3d\_2.png)
+![3D PCB View](images/pcb_3d_2.png)
 
 
 
@@ -28,7 +28,7 @@ This project is an Analog Temperature Sensing Board designed for Battery Managem
 
 
 
-!\[Schematic Diagram](./images/schematic.png)
+![Schematic Diagram](images/schematic.png)
 
 
 
@@ -44,7 +44,7 @@ To verify the circuit's accuracy, I performed an Operating Point (.op) analysis 
 
 
 
-!\[Ngspice Simulation Results](./images/simulation\_result.png)
+![Ngspice Simulation Results](images/simulation_result.png)
 
 
 
